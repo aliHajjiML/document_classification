@@ -10,5 +10,4 @@
 
 ## Training and evaluation
 
-To reproduce run the main file in.
-
+....
