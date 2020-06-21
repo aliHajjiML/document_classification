@@ -7,8 +7,6 @@
 	* **label** theme of the document
 * **bertClassification/** contains the python files for preprocessing and training BERT model for text classification
 
-* **vendor/** vendorized d3 library
-
 
 ## Training and evaluation
 
